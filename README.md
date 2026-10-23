@@ -7,4 +7,4 @@ idk what to write anymore
 hello this is a new line
 this is another new line
 another new line
-
+trying rebasing
